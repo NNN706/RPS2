@@ -23,6 +23,7 @@
     <ClCompile Include="bucket_sort.cpp" />
     <ClCompile Include="database.cpp" />
     <ClCompile Include="sort_test.cpp" />
+    <ClCompile Include="test.cpp" />
     <ClCompile Include="user.cpp" />
     <ClCompile Include="html_server.cpp" />
     <ClCompile Include="main.cpp" />
