@@ -1,0 +1,15 @@
+body{font-family:Arial,sans-serif;background:#f5f9fc;margin:0;padding:20px}
+.container{max-width:800px;margin:auto;background:white;padding:30px;border-radius:15px;box-shadow:0 5px 15px rgba(0,0,0,0.1)}
+header{background:#4a6fa5;color:white;padding:20px;border-radius:10px 10px 0 0;margin:-30px -30px 20px}
+h1{margin:0}
+.auth-box{background:#e8f4fc;padding:15px;border-radius:8px;margin-bottom:20px}
+input{margin:5px;padding:8px;width:200px;border:1px solid #ccc;border-radius:4px}
+button{margin:5px;padding:10px 15px;border:none;border-radius:6px;cursor:pointer;font-weight:bold}
+.btn-primary{background:#4a6fa5;color:white}
+.btn-success{background:#28a745;color:white}
+.btn-warning{background:#ffc107;color:black}
+.btn-danger{background:#dc3545;color:white}
+.array-box{background:#f8f9fa;padding:15px;border-radius:8px;margin:10px 0}
+#user-info{margin:10px 0;font-weight:bold;color:#4a6fa5}
+.toast{position:fixed;bottom:20px;right:20px;background:#333;color:white;padding:12px;border-radius:6px;opacity:0;transition:0.3s}
+.toast.show{opacity:1}
